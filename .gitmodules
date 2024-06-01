@@ -11,7 +11,16 @@
 	branch = non_std
 [submodule "tools/verusfmt"]
 	path = tools/verusfmt
-	url = git@github.com:verus-lang/verusfmt.git
+	url = https://github.com/verus-lang/verusfmt.git
 [submodule "richos/snplinux"]
 	path = richos/snplinux
-	url = git@github.com:ziqiaozhou/linux.git
+	url = https://github.com/ziqiaozhou/linux.git
+[submodule "tools/verus"]
+	path = tools/verus
+	url = https://github.com/ziqiaozhou/verus.git
+[submodule "tools/igvm"]
+	path = tools/igvm
+	url = https://github.com/ziqiaozhou/igvm-tooling.git
+[submodule "deps/hacl-packages"]
+	path = deps/hacl-packages
+	url = https://github.com/ziqiaozhou/hacl-packages.git
